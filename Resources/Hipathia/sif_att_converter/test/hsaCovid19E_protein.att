@@ -1,0 +1,21 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList
+N-hsaCovid19E_protein-1	BRD4	1370.02597402597	234.142857142857	white	ellipse	gene	0.62	black	46	17	23476
+N-hsaCovid19E_protein-2	BRD2	1370.52597402597	717.142857142857	white	ellipse	gene	0.62	black	46	17	6046
+N-hsaCovid19E_protein-3	STOML3;ASIC1	2129.52597402597	1187.14285714286	white	ellipse	gene	0.62	black	46	17	161003,/,41
+N-hsaCovid19E_protein-4	ASIC1	1858.07142857143	1234.32467532468	white	ellipse	gene	0.62	black	46	17	41
+N-hsaCovid19E_protein-5	STOML3	1982.52597402597	1234.14285714286	white	ellipse	gene	0.62	black	46	17	161003
+N-hsaCovid19E_protein-6	E	2397.5	1077.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19E_protein-7	ATP1A;ATP1B;FXYDs	2915.5	1195	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19E_protein-8	E;PALS1	567.5	1032.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19E_protein-9	PALS1	280.071428571429	1234.96103896104	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19E_protein-10	CCNT1;CDK9	1799.47402597403	283.357142857143	white	ellipse	gene	0.62	black	46	17	904,/,1025
+N-hsaCovid19E_protein-11	CDK9	1450	300	white	ellipse	gene	0.62	black	46	17	1025
+N-hsaCovid19E_protein-12	CCNT1	1461	351	white	ellipse	gene	0.62	black	46	17	904
+N-hsaCovid19E_protein-13	JQ1	1235	667	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19E_protein-14	H+	1710.02597402597	1302.64285714286	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19E_protein-15	TBP	1590	775	white	ellipse	gene	0.62	black	46	17	6908
+N-hsaCovid19E_protein-16	Activity of sodium channels	2322.5	1432.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19E_protein-17	K+	3230	1110	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19E_protein-18_func	Na+	3113	1468	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19E_protein-19_func	Maintenance of tight junction	703.5	1399.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19E_protein-20	RNA Polymerase II-dependent Transcription 	1780	455	white	circle	other	0.62	black	46	17	NA

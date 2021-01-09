@@ -1,0 +1,17 @@
+N-hsaCovid19TGFB_pathway-1	activation	N-hsaCovid19TGFB_pathway-14
+N-hsaCovid19TGFB_pathway-2	inhibition	N-hsaCovid19TGFB_pathway-1
+N-hsaCovid19TGFB_pathway-2	inhibition	N-hsaCovid19TGFB_pathway-8
+N-hsaCovid19TGFB_pathway-3	activation	N-hsaCovid19TGFB_pathway-1
+N-hsaCovid19TGFB_pathway-4	inhibition	N-hsaCovid19TGFB_pathway-1
+N-hsaCovid19TGFB_pathway-4	inhibition	N-hsaCovid19TGFB_pathway-8
+N-hsaCovid19TGFB_pathway-5	activation	N-hsaCovid19TGFB_pathway-1
+N-hsaCovid19TGFB_pathway-5	activation	N-hsaCovid19TGFB_pathway-8
+N-hsaCovid19TGFB_pathway-6	activation	N-hsaCovid19TGFB_pathway-1
+N-hsaCovid19TGFB_pathway-7	activation	N-hsaCovid19TGFB_pathway-1
+N-hsaCovid19TGFB_pathway-8	activation	N-hsaCovid19TGFB_pathway-14
+N-hsaCovid19TGFB_pathway-9	activation	N-hsaCovid19TGFB_pathway-8
+N-hsaCovid19TGFB_pathway-10	activation	N-hsaCovid19TGFB_pathway-8
+N-hsaCovid19TGFB_pathway-6	activation	N-hsaCovid19TGFB_pathway-8
+N-hsaCovid19TGFB_pathway-11	activation	N-hsaCovid19TGFB_pathway-15
+N-hsaCovid19TGFB_pathway-12	activation	N-hsaCovid19TGFB_pathway-11
+N-hsaCovid19TGFB_pathway-13	activation	N-hsaCovid19TGFB_pathway-16

@@ -1,0 +1,89 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList
+N-hsaCovid19Coagulation-pathway-1	KLKB1;KNG1	119.3	921.455882352941	white	ellipse	gene	0.62	black	46	17	3818,/,3827
+N-hsaCovid19Coagulation-pathway-2	KLKB1	256	1148	white	ellipse	gene	0.62	black	46	17	3818
+N-hsaCovid19Coagulation-pathway-3	KNG1	118	1109	white	ellipse	gene	0.62	black	46	17	3827
+N-hsaCovid19Coagulation-pathway-4	F10;F5	435	1871.97058823529	white	ellipse	gene	0.62	black	46	17	2159,/,2153
+N-hsaCovid19Coagulation-pathway-5	F10	190	1789	white	ellipse	gene	0.62	black	46	17	2159
+N-hsaCovid19Coagulation-pathway-6	F9	241	1491	white	ellipse	gene	0.62	black	46	17	2158
+N-hsaCovid19Coagulation-pathway-7	SERPINC1	571	1997	white	ellipse	gene	0.62	black	46	17	462
+N-hsaCovid19Coagulation-pathway-8	F3	575	1677	white	ellipse	gene	0.62	black	46	17	2152
+N-hsaCovid19Coagulation-pathway-9	F2;THBD	756	2241	white	ellipse	gene	0.62	black	46	17	2147,/,7056
+N-hsaCovid19Coagulation-pathway-10	PROC	430	1628	white	ellipse	gene	0.62	black	46	17	5624
+N-hsaCovid19Coagulation-pathway-11	F8	430	1491	white	ellipse	gene	0.62	black	46	17	2157
+N-hsaCovid19Coagulation-pathway-12	SERPINE1	1049	2461	white	ellipse	gene	0.62	black	46	17	5054
+N-hsaCovid19Coagulation-pathway-13	PLAT	1084	2589	white	ellipse	gene	0.62	black	46	17	5327
+N-hsaCovid19Coagulation-pathway-14	SARS-CoV-2 infection	1610	2008.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-15	FGA;FGB;FGG	1826.25	2095	white	ellipse	gene	0.62	black	46	17	2243,/,2244,/,2266
+N-hsaCovid19Coagulation-pathway-16	F2	691	2085	white	ellipse	gene	0.62	black	46	17	2147
+N-hsaCovid19Coagulation-pathway-17	THBD	906	2926	white	ellipse	gene	0.62	black	46	17	7056
+N-hsaCovid19Coagulation-pathway-18	C3;C3;CFB	2066	1083.75	white	ellipse	gene	0.62	black	46	17	718,/,718,/,629
+N-hsaCovid19Coagulation-pathway-19	C3	1898	1188	white	ellipse	gene	0.62	black	46	17	718
+N-hsaCovid19Coagulation-pathway-20	C3;CFB	1888	1050.5	white	ellipse	gene	0.62	black	46	17	718,/,629
+N-hsaCovid19Coagulation-pathway-21	C7;C8A;C8G;C8B;C6;C5;C9	2741	679	white	ellipse	gene	0.62	black	46	17	730,/,731,/,733,/,732,/,729,/,727,/,735
+N-hsaCovid19Coagulation-pathway-22	C5	1713	1437	white	ellipse	gene	0.62	black	46	17	727
+N-hsaCovid19Coagulation-pathway-23	C4B;C2	1537	1328	white	ellipse	gene	0.62	black	46	17	721,/,717
+N-hsaCovid19Coagulation-pathway-24	C4B	1405	1190	white	ellipse	gene	0.62	black	46	17	721
+N-hsaCovid19Coagulation-pathway-25	C2	1545	1160	white	ellipse	gene	0.62	black	46	17	717
+N-hsaCovid19Coagulation-pathway-26	S	1167.5	527.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-27	PLG	555	2422	white	ellipse	gene	0.62	black	46	17	5340
+N-hsaCovid19Coagulation-pathway-28	SERPINF2	420	2535	white	ellipse	gene	0.62	black	46	17	5345
+N-hsaCovid19Coagulation-pathway-29	FGA;FGB;FGG;GP6	2172.5	2399.5	white	ellipse	gene	0.62	black	46	17	2243,/,2244,/,2266,/,51206
+N-hsaCovid19Coagulation-pathway-30	GP6	2070	2415	white	ellipse	gene	0.62	black	46	17	51206
+N-hsaCovid19Coagulation-pathway-31	GP6;VWF;ITGA2;ITGB1	1748.4375	2545.125	white	ellipse	gene	0.62	black	46	17	51206,/,7450,/,3673,/,3688
+N-hsaCovid19Coagulation-pathway-32	ITGA2;ITGB1;GP6	1805	2367.5	white	ellipse	gene	0.62	black	46	17	3673,/,3688,/,51206
+N-hsaCovid19Coagulation-pathway-33	VWF	1220	2249	white	ellipse	gene	0.62	black	46	17	7450
+N-hsaCovid19Coagulation-pathway-34	ITGA2;ITGB1	1945.5	2336.25	white	ellipse	gene	0.62	black	46	17	3673,/,3688
+N-hsaCovid19Coagulation-pathway-35	F12	425	1167	white	ellipse	gene	0.62	black	46	17	2161
+N-hsaCovid19Coagulation-pathway-36	F11	300	1312	white	ellipse	gene	0.62	black	46	17	2160
+N-hsaCovid19Coagulation-pathway-37	RPS3AP29	241	1392	white	ellipse	gene	0.62	black	46	17	730861
+N-hsaCovid19Coagulation-pathway-38_func	Heparin	632	2042.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-39_func	angiotensin II	945.25	1292.75	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-40_func	angiotensin I	943.25	1044.75	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-41	ACE	598	891	white	ellipse	gene	0.62	black	46	17	1636
+N-hsaCovid19Coagulation-pathway-42	AGT	934	567	white	ellipse	gene	0.62	black	46	17	183
+N-hsaCovid19Coagulation-pathway-43	REN	819	567	white	ellipse	gene	0.62	black	46	17	5972
+N-hsaCovid19Coagulation-pathway-44_func	aldosterone	707.4	1207.6	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-45_func	Fibrin polymer	1405	2155	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-46	SERPINH1	630	2372	white	ellipse	gene	0.62	black	46	17	871
+N-hsaCovid19Coagulation-pathway-47	PLAU	830	2638	white	ellipse	gene	0.62	black	46	17	5328
+N-hsaCovid19Coagulation-pathway-48	Bradykinin	390	950	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-49_func	angiotensin I-7	1210.5	1286.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-50	IL6	1477	1786.5625	white	ellipse	gene	0.62	black	46	17	3569
+N-hsaCovid19Coagulation-pathway-51	AGTR1	617.5	820	white	ellipse	gene	0.62	black	46	17	185
+N-hsaCovid19Coagulation-pathway-52	TNF	1430	1882.41666666667	white	ellipse	gene	0.62	black	46	17	7124
+N-hsaCovid19Coagulation-pathway-53_func	cytokine storm	1783	1918.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-54	IL1B	1487	1728.70833333333	white	ellipse	gene	0.62	black	46	17	3553
+N-hsaCovid19Coagulation-pathway-55	CRP	1278	1679	white	ellipse	gene	0.62	black	46	17	1401
+N-hsaCovid19Coagulation-pathway-56	IL2RA	1507	1613	white	ellipse	gene	0.62	black	46	17	3559
+N-hsaCovid19Coagulation-pathway-57	CXCL8	1497	1670.85416666667	white	ellipse	gene	0.62	black	46	17	3576
+N-hsaCovid19Coagulation-pathway-58	MASP1	1664	1030	white	ellipse	gene	0.62	black	46	17	5648
+N-hsaCovid19Coagulation-pathway-59	MASP2	1765	950	white	ellipse	gene	0.62	black	46	17	10747
+N-hsaCovid19Coagulation-pathway-60	C4	1465	1025	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-61	CFD	1354	1082	white	ellipse	gene	0.62	black	46	17	1675
+N-hsaCovid19Coagulation-pathway-62	C4d deposition	1437.85714285714	595.928571428571	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-63	C5b-9 deposition	2877.85714285714	561.928571428571	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-64	ACE2	1074	820	white	ellipse	gene	0.62	black	46	17	59272
+N-hsaCovid19Coagulation-pathway-65_func	Fibrin monomer	1573	2156	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-66	F13a	1535	2095	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-67_func	platelet activation	2050	2619.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-68	MAS1	2732	2581	white	ellipse	gene	0.62	black	46	17	4142
+N-hsaCovid19Coagulation-pathway-69	K+	776.5	1279.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-70	ACTH	825	1185.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-71	NR3C2	350.5	636	white	ellipse	gene	0.62	black	46	17	4306
+N-hsaCovid19Coagulation-pathway-72	Hypokalemia	593	1154	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-73	Small peptide	315	1245	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-74	F8;F9	318	1574	white	ellipse	gene	0.62	black	46	17	2157,/,2158
+N-hsaCovid19Coagulation-pathway-75	SERPINC1;F2	274	2158.5	white	ellipse	gene	0.62	black	46	17	462,/,2147
+N-hsaCovid19Coagulation-pathway-76	SERPINE1;PLAT	1271	2473	white	ellipse	gene	0.62	black	46	17	5054,/,5327
+N-hsaCovid19Coagulation-pathway-77	D-dimer	1238	2156	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-78	SERPINF2;PLG	280	2433	white	ellipse	gene	0.62	black	46	17	5345,/,5340
+N-hsaCovid19Coagulation-pathway-79	Thrombosis	1067.5	1752.25	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-80	Bradykinin(1-5)	590	950	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-81	C4A	1545	1115	white	ellipse	gene	0.62	black	46	17	720
+N-hsaCovid19Coagulation-pathway-82	MASP2 deposition	1590	599.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-83_func	septal capillary necrosis	1437.85714285714	500.928571428571	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-84_func	apoptosis	2967.85714285714	476.928571428571	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-85_func	platelet aggregation	2787.85714285714	476.928571428571	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-86_func	thrombus formation	2295	2618.75	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-87_func	vascular remodeling	197	750	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Coagulation-pathway-88_func	vascular inflammation	170.5	695	white	rectangle	node	0.62	black	46	17	NA

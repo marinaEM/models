@@ -1,0 +1,17 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList
+N-hsaCovid19TGFB_pathway-1	SMAD9;SMAD5;SMAD1	704.4375	232.5625	white	ellipse	gene	0.62	black	46	17	4093,/,4090,/,4086
+N-hsaCovid19TGFB_pathway-2	BAMBI	244	545	white	ellipse	gene	0.62	black	46	17	25805
+N-hsaCovid19TGFB_pathway-3	BMPR1;659;10097	247	101	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19TGFB_pathway-4	MAPK3	520	480	white	ellipse	gene	0.62	black	46	17	5595
+N-hsaCovid19TGFB_pathway-5	3a	340	380	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19TGFB_pathway-6	7b	715	130	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19TGFB_pathway-7	nsp4	715	175	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19TGFB_pathway-8	SMAD3;SMAD2	604	1190	white	ellipse	gene	0.62	black	46	17	4088,/,4087
+N-hsaCovid19TGFB_pathway-9	ACVR1	239	1155	white	ellipse	gene	0.62	black	46	17	90
+N-hsaCovid19TGFB_pathway-10	ACVR1B	239	1100	white	ellipse	gene	0.62	black	46	17	91
+N-hsaCovid19TGFB_pathway-11	PPP2CA;PPP2R1A	785	750	white	ellipse	gene	0.62	black	46	17	5515,/,5518
+N-hsaCovid19TGFB_pathway-12	7a	705	680	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19TGFB_pathway-13	nsp7	700	994	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19TGFB_pathway-14_func	Modulation Cell Cycle	1271.5	743	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19TGFB_pathway-15	RPS6KB1	905	808	white	ellipse	gene	0.62	black	46	17	6198
+N-hsaCovid19TGFB_pathway-16	RHOA	618.666666666667	936.166666666667	white	ellipse	gene	0.62	black	46	17	387

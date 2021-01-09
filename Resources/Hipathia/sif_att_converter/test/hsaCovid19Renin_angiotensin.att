@@ -1,0 +1,62 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList
+N-hsaCovid19Renin_angiotensin-1	AGTR1	660	1658	white	ellipse	gene	0.62	black	46	17	185
+N-hsaCovid19Renin_angiotensin-2_func	angiotensin II	702.5	1003.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-3	ACE2	1290	280	white	ellipse	gene	0.62	black	46	17	59272
+N-hsaCovid19Renin_angiotensin-4	S	1015.5	70.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-5	MAS1;AGTR1	520	1170	white	ellipse	gene	0.62	black	46	17	4142,/,185
+N-hsaCovid19Renin_angiotensin-6_func	angiotensin I	704.5	748.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-7	AGT	715	230	white	ellipse	gene	0.62	black	46	17	183
+N-hsaCovid19Renin_angiotensin-8	REN	463.5	492	white	ellipse	gene	0.62	black	46	17	5972
+N-hsaCovid19Renin_angiotensin-9_func	angiotensin 1-12	920	962.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-10	ACE	530	905	white	ellipse	gene	0.62	black	46	17	1636
+N-hsaCovid19Renin_angiotensin-11	CTSD	960	590	white	ellipse	gene	0.62	black	46	17	1509
+N-hsaCovid19Renin_angiotensin-12	CTSG	910	640	white	ellipse	gene	0.62	black	46	17	1511
+N-hsaCovid19Renin_angiotensin-13_func	angiotensin 1-9	1614.5	748.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-14	CMA1	808	935	white	ellipse	gene	0.62	black	46	17	1215
+N-hsaCovid19Renin_angiotensin-15	KLK1	665	795	white	ellipse	gene	0.62	black	46	17	3816
+N-hsaCovid19Renin_angiotensin-16_func	angiotensin 1-7	1614.5	1003.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-17	MME	2180	781.5	white	ellipse	gene	0.62	black	46	17	4311
+N-hsaCovid19Renin_angiotensin-18	PRCP	1000	675	white	ellipse	gene	0.62	black	46	17	5547
+N-hsaCovid19Renin_angiotensin-19	THOP1	1410	890	white	ellipse	gene	0.62	black	46	17	7064
+N-hsaCovid19Renin_angiotensin-20	PREP	1390	967	white	ellipse	gene	0.62	black	46	17	5550
+N-hsaCovid19Renin_angiotensin-21	AGTR2	1148	1655	white	ellipse	gene	0.62	black	46	17	186
+N-hsaCovid19Renin_angiotensin-22	CGP42112A	1048.5	1725.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-23_func	angiotensin A	1077.5	1163.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-24	MAS1	1805	1655	white	ellipse	gene	0.62	black	46	17	4142
+N-hsaCovid19Renin_angiotensin-25_func	angiotensin 1-5	1897	1223.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-26	AR234960	1952.5	1730	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-27_func	estradiol	585	427.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-28_func	Calcitriol	264	413.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-29	SARS-CoV-2 infection	1450	87.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-30_func	aging	1960	167	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-31_func	hypertension	2061	204	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-32	 Diabetes mellitus, type II	2350	436	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-33_func	ethynylestradiol	805	221.875	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-34_func	androgen	1075	366.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-35_func	alamandine	1452.5	1163.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-36	MRGPRD	1535	1655	white	ellipse	gene	0.62	black	46	17	116512
+N-hsaCovid19Renin_angiotensin-37	LNPEP	1420	1650	white	ellipse	gene	0.62	black	46	17	4012
+N-hsaCovid19Renin_angiotensin-38_func	angiotensin III	695.25	1296.75	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-39	ENPEP	526	1323	white	ellipse	gene	0.62	black	46	17	2028
+N-hsaCovid19Renin_angiotensin-40_func	angiotensin IV	695.5	1436	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-41	ANPEP	525	1470	white	ellipse	gene	0.62	black	46	17	290
+N-hsaCovid19Renin_angiotensin-42	QGC001	372	1329.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-43_func	sex, male	390	1384	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-44	ADAM17	1560	280	white	ellipse	gene	0.62	black	46	17	6868
+N-hsaCovid19Renin_angiotensin-45_func	aldosterone	2097.5	1605.75	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-46_func	Losartan	393.5	1685.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-47_func	Lisinopril	382	809.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-48	ABO blood group system	285	874.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-49_func	angiotensin 3-7	1390	1429.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-50	AGTR1;ACE2	865	1600	white	ellipse	gene	0.62	black	46	17	185,/,59272
+N-hsaCovid19Renin_angiotensin-51_func	angiotensin 1-4	920	855.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-52_func	vasoconstriction	1113	1805.75	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-53_func	fibrosis	1113	1862.75	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-54_func	inflammatory response	1113	2041.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-55_func	oxidative stress	1113	1982.75	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-56_func	thrombosis	1114	1922.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-57	TMPRSS2	900	270	white	ellipse	gene	0.62	black	46	17	7113
+N-hsaCovid19Renin_angiotensin-58_func	neurodegeneration	1340	1738.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-59_func	cognition	1113	2101.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-60_func	pulmonary edema	359	1563.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Renin_angiotensin-61_func	platelet aggregation	359	1612.5	white	rectangle	node	0.62	black	46	17	NA

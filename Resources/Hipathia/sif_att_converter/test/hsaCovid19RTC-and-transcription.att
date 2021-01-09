@@ -1,0 +1,24 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList
+N-hsaCovid19RTC-and-transcription-1	(+)gRNA (including ORF1a ORF1b)	86	15	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-2	pp1a	106	300	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-3	pp1ab	281	300	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-4	(+)sgRNA (2-9)	1920	530	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-5	nsp2	361	950	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-6	nsp5	361	1035	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-7	nsp3	491	950	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-8	nsp4	231	1035	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-9	nsp9	701	920	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-10	nsp8 (I)	431	740	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-11	nsp1	231	950	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-12	nsp7	431	655	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-13	nsp10	436	545	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-14	nsp11	231	1115	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-15	nsp8 (II)	431	825	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-16	nsp6	491	1035	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-17	nsp14	436	465	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-18	nsp15	436	225	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-19	nsp16	436	145	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-20	nsp12	436	385	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-21	nsp13	436	305	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-22_func	viral accessory	2100	375	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19RTC-and-transcription-23_func	structural proteins	2100	480	white	rectangle	node	0.62	black	46	17	NA

@@ -1,0 +1,65 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList
+N-hsaCovid19ETC-1	NADH	308.5	566.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-2	mt mRNA	2020	1212.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-3	TUFM;TSFM;GFM1;C12orf65;TWNK	2108.5	1433.5	white	ellipse	gene	0.62	black	46	17	7284;10102;85476;91574;56652
+N-hsaCovid19ETC-4	MRPL3;MRPS16;MRPS22	1905	1321.5	white	ellipse	gene	0.62	black	46	17	11222;51021;56945
+N-hsaCovid19ETC-5	MRPS5;MRPS27;MRPS2;MRPS25	1904	1440	white	ellipse	gene	0.62	black	46	17	64969;23107;51116;64432
+N-hsaCovid19ETC-6	ACAD9	1040	862	white	ellipse	gene	0.62	black	46	17	28976
+N-hsaCovid19ETC-7	ECSIT	1040	890	white	ellipse	gene	0.62	black	46	17	51295
+N-hsaCovid19ETC-8	NDUFAF7	1040	919	white	ellipse	gene	0.62	black	46	17	55471
+N-hsaCovid19ETC-9	Q	1112	209	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-10_func	paraquat;H+	218	1289	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ETC-11_func	paraquat	204.5	1434.375	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ETC-12	O_sub_2_endsub_	356.5	1432.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-13	mt DNA	1903.5	866	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-14	TRMT1	1860	1051	white	ellipse	gene	0.62	black	46	17	55621
+N-hsaCovid19ETC-15	Nsp8	1470	1400	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-16	NSP4	865	1731	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-17	TIMM9;TIMM10	730	1885	white	ellipse	gene	0.62	black	46	17	26520,/,26519
+N-hsaCovid19ETC-18	Cyt C	1661.5	191.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-19	H+	1620	240	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-20	QH_sub_2_endsub_	1604.5	198.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-21	ADP	2052.5	437.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-22_func	Pi	2082.5	478	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ETC-23_func	superoxide	762	1017.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ETC-24	H_sub_2_endsub_O_sub_2_endsub_	762	1252.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-25_func	hydroxide	462	1137.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ETC-26	SOD1	920	1128	white	ellipse	gene	0.62	black	46	17	6647
+N-hsaCovid19ETC-27	SOD2	482	1330	white	ellipse	gene	0.62	black	46	17	6648
+N-hsaCovid19ETC-28	TXN2	952	1240	white	ellipse	gene	0.62	black	46	17	25828
+N-hsaCovid19ETC-29	PRDX1;PRDX2;PRDX5;PRDX6;PRDX3	855	1326	white	ellipse	gene	0.62	black	46	17	5052;7001;25824;9588;10935
+N-hsaCovid19ETC-30_func	glutathione	572	1342.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ETC-31	GPX4	652	1407	white	ellipse	gene	0.62	black	46	17	2879
+N-hsaCovid19ETC-32	GPX1	652	1360	white	ellipse	gene	0.62	black	46	17	2876
+N-hsaCovid19ETC-33	CAT	705	1307.5	white	ellipse	gene	0.62	black	46	17	847
+N-hsaCovid19ETC-34	SIRT3	417	1395	white	ellipse	gene	0.62	black	46	17	23410
+N-hsaCovid19ETC-35_func	Fe2+	730	1213.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ETC-36_func	Fe3+	844	997.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ETC-37_func	glutathione disulfide	572	1597.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ETC-38	NADPH	645	1533.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-39	GSR	480	1510	white	ellipse	gene	0.62	black	46	17	2936
+N-hsaCovid19ETC-40	TXNRD2	1032	1360	white	ellipse	gene	0.62	black	46	17	10587
+N-hsaCovid19ETC-41	TFAM	2015	940	white	ellipse	gene	0.62	black	46	17	7019
+N-hsaCovid19ETC-42	TFB1M;TFB2M;POLRMT	2065.5	1071	white	ellipse	gene	0.62	black	46	17	51106;64216;5442
+N-hsaCovid19ETC-43_func	damaged mt DNA	1903.5	681	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ETC-44	mt DNA replication	1795	945.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-45	POLG1;11232;123263;55149	1609	903	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-46	DGUOK;TK2;RRM2B;SUCLA2;SUCLG1	1601.5	676.5	white	ellipse	gene	0.62	black	46	17	1716;7084;50484;8803;8802
+N-hsaCovid19ETC-47	mt DNA damage	1800	771	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-48	ERCC6;ERCC8;POLG	2069.5	715	white	ellipse	gene	0.62	black	46	17	2074;1161;5428
+N-hsaCovid19ETC-49	Orf9c	680	765	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-50	Nsp7	954	968	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-51	ORF9b	515	2095	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-52	NAD+	435.5	567	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-53	ND1;ND2;ND3;ND4L;ND6;ND5;ND4;COX3;COX2;COX1;ATP8;ATP6;CYTB	1922.75	1630.5	white	ellipse	gene	0.62	black	46	17	4535;4536;4537;4539;4541;4540;4538;4514;4513;4512;4509;4508;4519
+N-hsaCovid19ETC-54	BCS1L;HCCS;COX7A2;CHCHD7;CMC1;COA1;COA3;COA4;COA5;COA6;COA7;COA8;COX10;COX11;COX14;COX15;COX16;COX17;COX18;COX19;COX20;HIGD1A;HIGD2A;NUBPL;FDXR;FDX2;LYRM7;SDHAF1;SDHAF2;NDUFAF5;NDUFAF3;NDUFAF4;NDUFAF1;ECSIT;NDUFAF2;NUBPL;ACAD9;FOXRED1;COA1;COA7;DMAC1;NDUFAF6;NDUFAF7;NDUFAF8;DMAC2	1051.125	473.5	white	ellipse	gene	0.62	black	46	17	617;3052;1347;79145;152100;55744;28958;51287;493753;388753;65260;84334;1352;1353;84987;1355;51241;10063;285521;90639;116228;25994;192286;80224;2232;112812;90624;644096;54949;79133;25915;29078;51103;51295;91942;80224;28976;55572;55744;65260;90871;137682;55471;284184;55101
+N-hsaCovid19ETC-55	MTRNR1;4511;4556;4558;4564;4565;4566;4567;4568;4570;4571;4572;4573;4574;4575;4576;4577;4578	1647.5	1143	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-56_func	precursor protein N-terminus binding	629	1824	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ETC-57	O_super_2-_endsuper_	1760	277	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-58	ATP	2169	437.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-59	ROS	367	1022.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-60	H_sub_2_endsub_O	762	1487.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-61	HO	601.5	1183.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-62	NADP(+)	645	1497.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ETC-63	NDUFB9	320	675	white	ellipse	gene	0.62	black	46	17	4715
+N-hsaCovid19ETC-64	NDUFA1	320	705	white	ellipse	gene	0.62	black	46	17	4694

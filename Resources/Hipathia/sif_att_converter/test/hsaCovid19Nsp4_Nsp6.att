@@ -1,0 +1,23 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList
+N-hsaCovid19Nsp4_Nsp6-1	Nsp6	1471	419	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Nsp4_Nsp6-2	Nsp4	672	749	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Nsp4_Nsp6-3	NUP210	172.5	827	white	ellipse	gene	0.62	black	46	17	23225
+N-hsaCovid19Nsp4_Nsp6-4	SIGMAR1	67.1666666666667	1022.16666666667	white	ellipse	gene	0.62	black	46	17	10280
+N-hsaCovid19Nsp4_Nsp6-5	TOMM5;TOMM7;TOMM20;TOMM22;TOMM40;TOMM70	966	1402	white	ellipse	gene	0.62	black	46	17	401505,/,54543,/,9804,/,56993,/,10452,/,9868
+N-hsaCovid19Nsp4_Nsp6-6	ATP6V1B1;ATP6V1E2;ATP6V1B2;ATP6V1A;ATP6V1C1;ATP6V1H;ATP6V1E1;ATP6V1G1;ATP6V1D;ATP6V1C2;ATP6V1G2;ATP6V0E1;ATP6V0A2;ATP6V0D1;ATP6V0A1;ATP6V0B;ATP6V0D2;ATP6V0C;ATP6V0E2;TCIRG1	69	1263.5	white	ellipse	gene	0.62	black	46	17	525,/,90423,/,526,/,523,/,528,/,51606,/,529,/,9550,/,51382,/,245973,/,534,/,8992,/,23545,/,9114,/,535,/,533,/,245972,/,527,/,155066,/,10312
+N-hsaCovid19Nsp4_Nsp6-7	ATP6AP1	372.5	1201.5	white	ellipse	gene	0.62	black	46	17	537
+N-hsaCovid19Nsp4_Nsp6-8_func	Bafilomycin A1	334	1604	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Nsp4_Nsp6-9	IDE	620	658	white	ellipse	gene	0.62	black	46	17	3416
+N-hsaCovid19Nsp4_Nsp6-10	Nsp4 (+)	670	825	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Nsp4_Nsp6-11	Nsp4 (-)	659	913.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Nsp4_Nsp6-12	Nsp6 (+)	1449.16666666667	570.166666666667	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Nsp4_Nsp6-13	Nsp6 (-)	1316	569.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Nsp4_Nsp6-14	Nsp3 (+)	1026.75	364.333333333333	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Nsp4_Nsp6-15	Nsp3 (-)	905	365.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Nsp4_Nsp6-16	Nsp6;10280	70.6666666666667	1122.16666666667	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Nsp4_Nsp6-17	Nsp4;23225	56.5	706	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Nsp4_Nsp6-18	Nsp4;90580;26515;26520;26519;29928	1096.125	1445.625	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Nsp4_Nsp6-19	Nsp4;3416	550.5	475	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Nsp4_Nsp6-20	H+	325	1503	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Nsp4_Nsp6-21_func	Bafilomycin A1;537	181	1516	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Nsp4_Nsp6-22	Nsp3	1093.75	448.833333333333	white	circle	other	0.62	black	46	17	NA

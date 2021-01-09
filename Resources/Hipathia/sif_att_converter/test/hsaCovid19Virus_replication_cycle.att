@@ -1,0 +1,88 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList
+N-hsaCovid19Virus_replication_cycle-1	(+)ss gRNA;N	1816	858.291666666667	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-2	E	2338.36538461538	333.278150303644	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-3	M	2361.36538461538	262.278150303644	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-4	Orf7a	2432.23987854251	187.827112854251	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-5	S2	2502.83333333333	452.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-6_func	Replication transcription complex;N	3574.5	2269.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-7	N	3730.22222222222	2919	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-8_func	Replication transcription complex	2151.71428571429	1910.85714285714	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-9	(+)ss gRNA	3258.5	3109	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-10	Nsp10	2433.84795321638	1584.92475981621	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-11	Nsp16	2003.78373015873	1588.92475981621	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-12	Nsp15	2090.11111111111	1589.92475981621	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-13	Nsp14	2176.77777777778	1586.92475981621	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-14	Nsp13	2262.44444444445	1586.92475981621	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-15	Nsp12	2348.11111111111	1584.92475981621	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-16	Nsp9	2523.84795321638	1586.92475981621	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-17	Nsp8	2611.84795321638	1586.92475981621	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-18	Nsp7	2698.84795321638	1584.92475981621	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-19	Nsp6	2789.84795321638	1582.92475981621	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-20	Nsp3	2879.5	1594.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-21	Nsp4	2971	1593	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-22	Nsp2	2443.65	639.594117647059	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-23	Endoplasmic reticulum	3017	1504	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-24	CTSB	706.75	1037	white	ellipse	gene	0.62	black	46	17	1508
+N-hsaCovid19Virus_replication_cycle-25	CTSL	867.75	1036	white	ellipse	gene	0.62	black	46	17	1514
+N-hsaCovid19Virus_replication_cycle-26	FURIN	3187	451	white	ellipse	gene	0.62	black	46	17	5045
+N-hsaCovid19Virus_replication_cycle-27	TMPRSS2	3339.16666666667	449.5	white	ellipse	gene	0.62	black	46	17	7113
+N-hsaCovid19Virus_replication_cycle-28_func	Camostat mesylate	3238	97	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-29	43740575	3316.94932518462	3350.05882352941	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-30_func	Host translation complex	3697.11111111111	3138.33333333333	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-31	M (+)ss sgmRNA	3297.94932518462	3389.65043290043	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-32	E (+)ss sgmRNA	3275.94932518462	3426.65043290043	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-33	S (+)ss sgmRNA	3261.94932518462	3465.65043290043	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-34	pp1a	2989.79166666667	591.427777777778	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-35	pp1ab	2815.79166666667	590.427777777778	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-36	Orf3a (+)ss sgmRNA	3208.94932518462	3576.6075036075	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-37	Orf6  (+)ss sgmRNA	3225.94932518462	3541.6075036075	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-38	Orf7a (+)ss sgmRNA	3243.94932518462	3505.6075036075	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-39	Orf7b (+)ss sgmRNA	3112.94932518462	3723.6075036075	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-40	Orf14 (+)ss sgmRNA	3144.94932518462	3687.32972582973	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-41	Orf9b (+)ss sgmRNA	3163.94932518462	3648.32972582973	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-42	Orf8 (+)ss sgmRNA	3188.94932518462	3611.32972582973	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-43	N ds sgmRNA	2463	2295.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-44	Orf7a ds sgmRNA	2463	2449.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-45	Orf7b ds sgmRNA	2463	2695.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-46	Orf8 ds sgmRNA	2463	2570.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-47	Orf9b ds sgmRNA	2463	2612.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-48	Orf14 ds sgmRNA	2463	2652.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-49	E ds sgmRNA	2463	2366.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-50	S ds sgmRNA	2463	2406.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-51	M ds sgmRNA	2463	2327.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-52	ds gRNA	2442	2227.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-53	pp1ab nsp6-16	2569	1001	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-54	Nsp5	2365.25	1031.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-55	pp1a Nsp6-11	3231.5	1011.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-56	pp1a Nsp3-11	3186.5	841.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-57	Nsp3-4	3213.5	1258.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-58	pp1ab Nsp3-16	2601.5	855.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-59	Nsp1	2568.65	623.594117647059	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-60	Orf6 ds sgmRNA	2463	2492.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-61	Orf3a ds sgmRNA	2463	2532.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-62	Orf7b (-)ss sgmRNA	1668.05555555556	2575.38888888889	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-63	(-)ss gRNA	1703.05555555556	2120.38888888889	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-64	Orf14 (-)ss sgmRNA	1668.05555555556	2539.38888888889	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-65	Orf9b (-)ss sgmRNA	1668.05555555556	2496.38888888889	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-66	Orf8 (-)ss sgmRNA	1668.05555555556	2459.38888888889	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-67	Orf3a (-)ss sgmRNA	1668.05555555556	2423.38888888889	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-68	Orf6 (-)ss sgmRNA	1668.05555555556	2381.38888888889	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-69	Orf7a (-)ss sgmRNA	1668.05555555556	2341.38888888889	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-70	S (-)ss sgmRNA	1668.05555555556	2299.38888888889	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-71	43740570	1668.05555555556	2260.38888888889	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-72	43740571	1668.05555555556	2221.38888888889	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-73	N;(+)ss gRNA	5045.5	170.163461538461	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-74_func	cellular response to exogenous dsRNA	2043.5	1351.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-75_func	Double-membrane vesicle	3003	1876	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-76	S1	824	938	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-77	ACE2	3079	445	white	ellipse	gene	0.62	black	46	17	59272
+N-hsaCovid19Virus_replication_cycle-78	S	4380.04166666667	2961.08333333333	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-79	Orf3a	4383.91666666667	3108.675	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-80	Orf6	4381.25	3059.675	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-81	Orf7b	4377.91666666667	3302.675	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-82	Orf14	4384.875	3252.925	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-83	Orf9b	4383.25	3205.675	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-84	Orf8	4381.91666666667	3156.675	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-85	N (-)ss sgmRNA	3124	2297.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-86	Nsp11	3676.57602339181	1577.2318452381	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Virus_replication_cycle-87_func	Host translation	2682	630	white	rectangle	node	0.62	black	46	17	NA

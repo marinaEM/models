@@ -1,0 +1,35 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList
+N-hsaCovid19IFN-lambda-1	STAT1;STAT2;IRF9	951	2408.25	white	ellipse	gene	0.62	black	46	17	6772,/,6773,/,10379
+N-hsaCovid19IFN-lambda-2	STAT1;STAT2	808	2007.25	white	ellipse	gene	0.62	black	46	17	6772,/,6773
+N-hsaCovid19IFN-lambda-3	IRF9	1063	2088	white	ellipse	gene	0.62	black	46	17	10379
+N-hsaCovid19IFN-lambda-4	STAT3	693	2098	white	ellipse	gene	0.62	black	46	17	6774
+N-hsaCovid19IFN-lambda-5_func	ribosomal 40S subunit	1807	2105	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-6_func	viral nsp1	1813	2298	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-7_func	ribosomal 40S subunit;ribosomal 60S subunit	1608	2196.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-8	STAT1	658	1892.25	white	ellipse	gene	0.62	black	46	17	6772
+N-hsaCovid19IFN-lambda-9	STAT2	1083	1892.25	white	ellipse	gene	0.62	black	46	17	6773
+N-hsaCovid19IFN-lambda-10	RIG-I;pexMAVS;dsRNA	1793	409	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-11	dsRNA	1948	356.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-12_func	ribosomal 60S subunit	1699.5	2062	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-13	M-protein, membrane-bound	203	274	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-14	RIG-I	343	346.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-15	IFN-III	662	1220	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-16	ISGs	1480.5	2306	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-17	IFN-sensitive-response-element	1285.5	2511	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-18_func	viral RNA+N-methyl-Guanine	1907.5	202.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-19_func	viral RNA	1741.5	203.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-20	nsp14	1835.5	124	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-21	nsp16	2003.5	120	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-22	dsRNA_vesicle	248	176.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-23	RNA	416	86.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-24	PLPro	623	224	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-25	IRF1	1693	1039	white	ellipse	gene	0.62	black	46	17	3659
+N-hsaCovid19IFN-lambda-26_func	Riplet / TRIM25	523	234	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-27	STAT2;STAT3;STAT1	678	2207.25	white	ellipse	gene	0.62	black	46	17	6773,/,6774,/,6772
+N-hsaCovid19IFN-lambda-28_func	ribosomal 40S subunit;viral nsp1	1932	2184	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-29_func	ribosomal 40S subunit;ribosomal 60S subunit;viral nsp1	1663.5	2446.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-30	IFNs	2094	1628	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-31_func	antiviral proteins	1974	1627	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-32	RIG-I;M-protein, membrane-bound	190	407	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-33	IFNL	662	1444	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19IFN-lambda-34	5'cap-viral-RNA	2089.5	200.5	white	circle	other	0.62	black	46	17	NA

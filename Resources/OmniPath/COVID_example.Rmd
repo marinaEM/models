@@ -1,0 +1,79 @@
+---
+title: "Simple R notebook for OmniPathR in COVID-19"
+output: html_notebook
+---
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+if(!'OmnipathR' %in% installed.packages()[,"Package"]){
+    require(devtools)
+    install_github('saezlab/OmnipathR')
+}
+
+require(OmnipathR)
+```
+```{r}
+require(dplyr)
+require(tibble)
+require(purrr)
+require(openxlsx)
+require(igraph)
+require(qgraph)
+```
+We download the OmniPath interactions
+```{r}
+ia_omnipath <- import_Omnipath_Interactions() %>% as_tibble()
+```
+```{r}
+PRKACA_interactors<- ia_omnipath[ia_omnipath$source=="P17612",]
+#write.table(head(PRKACA_interactors), "sample_interactions.csv", sep=",")
+length(unique(PRKACA_interactors$target_genesymbol))
+head(PRKACA_interactors)
+```
+We can also see various annotations of the proteins. E.g localisation or pathways.
+Let's see what kind of databases are available.
+```{r}
+get_annotation_databases()
+```
+Let's check the cytosol proteins where the CAMP dependent protin kinase targets should be. We use the human protein atlas for that.
+```{r}
+PRKACA_targets_intracell_localisation <- import_Omnipath_annotations(select_genes= PRKACA_interactors$target_genesymbol, filter_databases=c("HPA_subcellular")) %>% as_tibble()
+cytosol_portiens <- PRKACA_targets_intracell_localisation[PRKACA_targets_intracell_localisation$value=="Cytosol",]
+```
+Let'ss ay we want to sewee which proteins will be affected by PRKACA in the lung.
+```{r}
+PRKACA_targets_tissue_localisation <- import_Omnipath_annotations(select_genes= PRKACA_interactors$target_genesymbol, filter_databases=c("HPA_tissue")) %>% as_tibble()
+```
+```{r}
+head(PRKACA_targets_tissue_localisation)
+```
+```{r}
+organ_annotations <- PRKACA_targets_tissue_localisation[PRKACA_targets_tissue_localisation$label=="organ", ]
+lung_PRKCA_protein_annotations <- organ_annotations[organ_annotations$value=="lung",]
+records <- unique(lung_PRKCA_protein_annotations$record_id)
+
+PRKACA_targets_tissue_localisation_lung_data <- PRKACA_targets_tissue_localisation %>% filter(record_id %in%c(records))
+to_select_level <- PRKACA_targets_tissue_localisation_lung_data[PRKACA_targets_tissue_localisation_lung_data$label == "level", ]
+record_ids_for_selection = to_select_level[to_select_level$value!="Not detected", "record_id"]
+PRKACA_targets_expressed_in_lung <- PRKACA_targets_tissue_localisation_lung_data   %>% filter(record_id %in%c(record_ids_for_selection$record_id))
+result<-PRKACA_targets_expressed_in_lung[PRKACA_targets_expressed_in_lung$label==c("tissue", "level"), ]
+length(unique(PRKACA_targets_expressed_in_lung$uniprot))
+head(result)
+```
+```{r}
+write.table(lung_PRKCA_protein_interactors, "PRKCA_interactors_in_the_lung_HPA.csv", sep=",")
+length(unique(lung_PRKCA_protein_interactors$uniprot))
+```
+Transcriptional regulation
+If you want more interactions, pass the argument
+confidence_level = c('A', 'B', 'C', 'D')
+For descriptionof confidence levels see the paper: https://genome.cshlp.org/content/29/8/1363
+
+```{r}
+ia_transcriptional <- import_TFregulons_Interactions(confidence_level = c('A', 'B', 'C')) %>% as_tibble()
+```
+Let's say we want to find some transcription factors which regualte the ACE2 receptor
+```{r}
+ia_transcriptional[ia_transcriptional$target=="Q9BYF1",c("source", "source_genesymbol")]
+```

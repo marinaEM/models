@@ -1,0 +1,16 @@
+N-hsaCovid19JNK_pathway-1	activation	N-hsaCovid19JNK_pathway-8
+N-hsaCovid19JNK_pathway-1	activation	N-hsaCovid19JNK_pathway-11
+N-hsaCovid19JNK_pathway-1	activation	N-hsaCovid19JNK_pathway-13
+N-hsaCovid19JNK_pathway-1	activation	N-hsaCovid19JNK_pathway-12
+N-hsaCovid19JNK_pathway-2	activation	N-hsaCovid19JNK_pathway-1
+N-hsaCovid19JNK_pathway-3	activation	N-hsaCovid19JNK_pathway-1
+N-hsaCovid19JNK_pathway-4	activation	N-hsaCovid19JNK_pathway-1
+N-hsaCovid19JNK_pathway-5	activation	N-hsaCovid19JNK_pathway-1
+N-hsaCovid19JNK_pathway-6	activation	N-hsaCovid19JNK_pathway-1
+N-hsaCovid19JNK_pathway-7	activation	N-hsaCovid19JNK_pathway-3
+N-hsaCovid19JNK_pathway-8	activation	N-hsaCovid19JNK_pathway-14
+N-hsaCovid19JNK_pathway-9	activation	N-hsaCovid19JNK_pathway-8
+N-hsaCovid19JNK_pathway-10	activation	N-hsaCovid19JNK_pathway-2
+N-hsaCovid19JNK_pathway-11	inhibition	N-hsaCovid19JNK_pathway-15
+N-hsaCovid19JNK_pathway-11	activation	N-hsaCovid19JNK_pathway-16
+N-hsaCovid19JNK_pathway-12	activation	N-hsaCovid19JNK_pathway-17

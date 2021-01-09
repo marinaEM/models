@@ -1,0 +1,78 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList
+N-hsaCovid19Pyrimidine_deprivation-1	NFKB1;RELA;IRF3	2277.5	432	white	ellipse	gene	0.62	black	46	17	4790,/,5970,/,3661
+N-hsaCovid19Pyrimidine_deprivation-2	RELA;NFKB1	2658.57142857143	435.428571428571	white	ellipse	gene	0.62	black	46	17	5970,/,4790
+N-hsaCovid19Pyrimidine_deprivation-3	IRF3	2665	380	white	ellipse	gene	0.62	black	46	17	3661
+N-hsaCovid19Pyrimidine_deprivation-4	STING;cGAMP	2448	735.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-5	cGAMP	2067	775	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-6	STING1	2220	690	white	ellipse	gene	0.62	black	46	17	340061
+N-hsaCovid19Pyrimidine_deprivation-7	STING;cGAMP;LC3	2980	928	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-8	WIPI2	2899	879	white	ellipse	gene	0.62	black	46	17	26100
+N-hsaCovid19Pyrimidine_deprivation-9	cGAMP;STING	2534	984.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-10	dsDNA	1680.5	885	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-11	SAR1A	2415	925	white	ellipse	gene	0.62	black	46	17	56681
+N-hsaCovid19Pyrimidine_deprivation-12_func	cytidine	1436	213.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-13	UMP	1226	348	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-14_func	uridine	1226	215.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-15	UCK2	1323.5625	273	white	ellipse	gene	0.62	black	46	17	7371
+N-hsaCovid19Pyrimidine_deprivation-16_func	orotidine 5'-monophosphate	899	346	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-17	UMPS	956	272	white	ellipse	gene	0.62	black	46	17	7372
+N-hsaCovid19Pyrimidine_deprivation-18	ATP	1836	747	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-19	GTP	1835	807.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-20	RTC and transcription pw	1805	451.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-21	N-carbamoyl-L-aspartate	591	788.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-22	H_plus	687	751	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-23	CAD	446	902	white	ellipse	gene	0.62	black	46	17	790
+N-hsaCovid19Pyrimidine_deprivation-24	dCDP	1432	571	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-25	CDP	1434	455	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-26	 RRM1;6241	1319	482	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-27	UDP	1224	455	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-28	CMPK1	1322	396	white	ellipse	gene	0.62	black	46	17	51727
+N-hsaCovid19Pyrimidine_deprivation-29	dTMP	1220	927	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-30	dUMP	1218	780	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-31	TYMS	1140	850	white	ellipse	gene	0.62	black	46	17	7298
+N-hsaCovid19Pyrimidine_deprivation-32	L-Gln	631	1277	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-33	HCO3_minus	581	1237	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-34	H2O	675	1238	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-35	(S)-dihydroorotate	617.25	539	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-36	dUTP	1225	665	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-37	DUT	1140	720	white	ellipse	gene	0.62	black	46	17	1854
+N-hsaCovid19Pyrimidine_deprivation-38	dCMP	1431	778	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-39	DCTD	1325	840	white	ellipse	gene	0.62	black	46	17	1635
+N-hsaCovid19Pyrimidine_deprivation-40	CAP	626	1020	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-41	L-Asp	679	986	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-42	CMP	1436	346	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-43	IFNB1	1965	75	white	ellipse	gene	0.62	black	46	17	3456
+N-hsaCovid19Pyrimidine_deprivation-44	dTTP	1613	1012	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-45	DNA biosynthesis	1448	945	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-46_func	virus replication	1522	801	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-47	dTDP	1410	1012	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-48	DTYMK	1345	910	white	ellipse	gene	0.62	black	46	17	1841
+N-hsaCovid19Pyrimidine_deprivation-49	DNA damage	1336	1117	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-50	UTP	1632	573	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-51	NME1	1530	517	white	ellipse	gene	0.62	black	46	17	4830
+N-hsaCovid19Pyrimidine_deprivation-52_func	orotate	624	346	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-53	PRPP	680	402.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-54	CDA	1326	150	white	ellipse	gene	0.62	black	46	17	978
+N-hsaCovid19Pyrimidine_deprivation-55	IFNA1	2130	75	white	ellipse	gene	0.62	black	46	17	3439
+N-hsaCovid19Pyrimidine_deprivation-56	dCTP	1435	665	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-57	DCTPP1	1320	717	white	ellipse	gene	0.62	black	46	17	79077
+N-hsaCovid19Pyrimidine_deprivation-58_func	CoQ	443.5	503.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-59	DHODH	136.5	443.5	white	ellipse	gene	0.62	black	46	17	1723
+N-hsaCovid19Pyrimidine_deprivation-60	P1788	744	507	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-61_func	Teriflunomide	805	443	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-62	dUDP	1224	573	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-63	CTP	1633	455	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-64	CTPS1	1700	508	white	ellipse	gene	0.62	black	46	17	1503
+N-hsaCovid19Pyrimidine_deprivation-65	STING	2570	693	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-66_func	HCoVs autophagy (WP4863)	2950	1205	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-67	DNA	1475	887.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-68	CO2	1117	393	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-69_func	PPi	865	400	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-70	RNA biosynthesis	1800	560	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-71_func	Pi	569	1055	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-72	ADP	716	1089	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-73	L-Glu	682	1052	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-74	QH2	439.5	351.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-75_func	HCoVs Type I Ifn signalling(WP4868)	1640	32.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-76	Interferon 1 pathway	2000	2.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19Pyrimidine_deprivation-77_func	HCoVs IFN induction WP4880	2305	40.5	white	rectangle	node	0.62	black	46	17	NA

@@ -1,0 +1,105 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList
+N-hsaCovid19ER_Stress-1_func	Persistant ER Stress	3803	1124.625	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-2	SIGMAR1;ITPR3	1668.5	1432	white	ellipse	gene	0.62	black	46	17	10280,/,3710
+N-hsaCovid19ER_Stress-3	SIGMAR1	2041	1447	white	ellipse	gene	0.62	black	46	17	10280
+N-hsaCovid19ER_Stress-4	ITPR3	1891	1447	white	ellipse	gene	0.62	black	46	17	3710
+N-hsaCovid19ER_Stress-5	ER stress	1243.25	1134.75	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-6_func	Ca2+ ER depletion	1795	1357.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-7	GDP	4000	705.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-8	MAP1LC3A;ATG5;FADD;CASP8	3996.25	1956.625	white	ellipse	gene	0.62	black	46	17	84557,/,9474,/,8772,/,841
+N-hsaCovid19ER_Stress-9	CASP8;FADD	3711.78571428571	1919.41071428571	white	ellipse	gene	0.62	black	46	17	841,/,8772
+N-hsaCovid19ER_Stress-10	SQSTM1	3970	1759.125	white	ellipse	gene	0.62	black	46	17	8878
+N-hsaCovid19ER_Stress-11	MAP1LC3A	3955	1809.125	white	ellipse	gene	0.62	black	46	17	84557
+N-hsaCovid19ER_Stress-12	ATG5	3950	1859.125	white	ellipse	gene	0.62	black	46	17	9474
+N-hsaCovid19ER_Stress-13	TRIM13	3895	2045	white	ellipse	gene	0.62	black	46	17	10206
+N-hsaCovid19ER_Stress-14	SIGMAR1;HSPA5	2176	1397	white	ellipse	gene	0.62	black	46	17	10280,/,3309
+N-hsaCovid19ER_Stress-15	HSPA5	2030	1185	white	ellipse	gene	0.62	black	46	17	3309
+N-hsaCovid19ER_Stress-16	VAPB;RMDN3	499	1451.875	white	ellipse	gene	0.62	black	46	17	9217,/,55177
+N-hsaCovid19ER_Stress-17	VAPB	710	1363.875	white	ellipse	gene	0.62	black	46	17	9217
+N-hsaCovid19ER_Stress-18	RMDN3	689.03125	1666.15625	white	ellipse	gene	0.62	black	46	17	55177
+N-hsaCovid19ER_Stress-19	GTP	3893	564.5	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-20	EIF2B3;EIF2B4;EIF2B1;EIF2B2;EIF2B5	4275	502.5	white	ellipse	gene	0.62	black	46	17	8891,/,8890,/,1967,/,8892,/,8893
+N-hsaCovid19ER_Stress-21	PACS2;ADAM17	501	330.375	white	ellipse	gene	0.62	black	46	17	23241,/,6868
+N-hsaCovid19ER_Stress-22	PACS2	292	381.375	white	ellipse	gene	0.62	black	46	17	23241
+N-hsaCovid19ER_Stress-23	ADAM17	273	448.375	white	ellipse	gene	0.62	black	46	17	6868
+N-hsaCovid19ER_Stress-24	FIS1;BCAP31	1000	1446.875	white	ellipse	gene	0.62	black	46	17	51024,/,10134
+N-hsaCovid19ER_Stress-25	BCAP31	1195	1365	white	ellipse	gene	0.62	black	46	17	10134
+N-hsaCovid19ER_Stress-26	FIS1	1198.03125	1661.15625	white	ellipse	gene	0.62	black	46	17	51024
+N-hsaCovid19ER_Stress-27	MFN2;MFN2	374.5	1449.53125	white	ellipse	gene	0.62	black	46	17	9927,/,9927
+N-hsaCovid19ER_Stress-28	MFN2	640	915	white	ellipse	gene	0.62	black	46	17	9927
+N-hsaCovid19ER_Stress-29	BBC3;ERN1	1588	909.5	white	ellipse	gene	0.62	black	46	17	27113,/,2081
+N-hsaCovid19ER_Stress-30	ERN1	1602	1066	white	ellipse	gene	0.62	black	46	17	2081
+N-hsaCovid19ER_Stress-31	BBC3	1717	1061	white	ellipse	gene	0.62	black	46	17	27113
+N-hsaCovid19ER_Stress-32	CEACAMP4;MFN2	189.5	1449.53125	white	ellipse	gene	0.62	black	46	17	1093,/,9927
+N-hsaCovid19ER_Stress-33	CEACAMP4	114.03125	1666.15625	white	ellipse	gene	0.62	black	46	17	1093
+N-hsaCovid19ER_Stress-34	SMDT1;MCU;MICU1;MICU2	1782.390625	2146.765625	white	ellipse	gene	0.62	black	46	17	91689,/,90550,/,10367,/,221154
+N-hsaCovid19ER_Stress-35	MCU	1549.96875	2162.53125	white	ellipse	gene	0.62	black	46	17	90550
+N-hsaCovid19ER_Stress-36	SMDT1	1649.96875	2202.53125	white	ellipse	gene	0.62	black	46	17	91689
+N-hsaCovid19ER_Stress-37	MICU2	2025.53125	2251.40625	white	ellipse	gene	0.62	black	46	17	221154
+N-hsaCovid19ER_Stress-38	MICU1	2140.53125	2226.40625	white	ellipse	gene	0.62	black	46	17	10367
+N-hsaCovid19ER_Stress-39	BCL2L11;ERN1	1363	924.5	white	ellipse	gene	0.62	black	46	17	10018,/,2081
+N-hsaCovid19ER_Stress-40	BCL2L11	1477	1061	white	ellipse	gene	0.62	black	46	17	10018
+N-hsaCovid19ER_Stress-41_func	Ca2+	3073.75	868.75	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-42	EIF2AK3	4105	1315	white	ellipse	gene	0.62	black	46	17	9451
+N-hsaCovid19ER_Stress-43	MICU1;SMDT1;MCU;SMDT1;MICU2;MICU2;MCUB;MICU1	1733.53125	1811.71875	white	ellipse	gene	0.62	black	46	17	10367,/,91689,/,90550,/,91689,/,221154,/,221154,/,55013,/,10367
+N-hsaCovid19ER_Stress-44	ACE2	755	215	white	ellipse	gene	0.62	black	46	17	59272
+N-hsaCovid19ER_Stress-45	S	340	117	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-46	ATF4	1675	776	white	ellipse	gene	0.62	black	46	17	468
+N-hsaCovid19ER_Stress-47	DDIT3	1445	711	white	ellipse	gene	0.62	black	46	17	1649
+N-hsaCovid19ER_Stress-48_func	release of ER Ca2+	3596	813.375	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-49	BAX	3155	1889.125	white	ellipse	gene	0.62	black	46	17	581
+N-hsaCovid19ER_Stress-50	ATF6	4265	1380	white	ellipse	gene	0.62	black	46	17	22926
+N-hsaCovid19ER_Stress-51	ER Stress	3843	1056.875	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-52_func	retrograde transport from ER to cytosol	4116	1163.625	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-53	MAPK14	2760	2004.125	white	ellipse	gene	0.62	black	46	17	1432
+N-hsaCovid19ER_Stress-54	HSPA5;ATF6	4527	1328.125	white	ellipse	gene	0.62	black	46	17	3309,/,22926
+N-hsaCovid19ER_Stress-55	TMBIM6	2959.09375	941.125	white	ellipse	gene	0.62	black	46	17	7009
+N-hsaCovid19ER_Stress-56	ERO1A	3293.77777777778	1019.23611111111	white	ellipse	gene	0.62	black	46	17	30001
+N-hsaCovid19ER_Stress-57	XBP1	3970	2199.125	white	ellipse	gene	0.62	black	46	17	7494
+N-hsaCovid19ER_Stress-58_func	accumulation of misfolded protein in ER	3759	970.625	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-59_func	mitochondrial fission	1253.53125	1724.90625	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-60	TRAF2	2600	1874.125	white	ellipse	gene	0.62	black	46	17	7186
+N-hsaCovid19ER_Stress-61	PPP2CA	3220	2189.125	white	ellipse	gene	0.62	black	46	17	5515
+N-hsaCovid19ER_Stress-62	ITPR3;VDAC1;HSPA9	1338.5	1446.875	white	ellipse	gene	0.62	black	46	17	3710,/,7416,/,3313
+N-hsaCovid19ER_Stress-63	PPP1R15A	2235	716	white	ellipse	gene	0.62	black	46	17	23645
+N-hsaCovid19ER_Stress-64	EIF2AK1	3390	540	white	ellipse	gene	0.62	black	46	17	27102
+N-hsaCovid19ER_Stress-65	CASP9	2507	872	white	ellipse	gene	0.62	black	46	17	842
+N-hsaCovid19ER_Stress-66	CASP4	2629	820	white	ellipse	gene	0.62	black	46	17	837
+N-hsaCovid19ER_Stress-67_func	mitochondrion-endoplasmic reticulum membrane tethering 	415	1187.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-68	ERAD	3868	864.125	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-69	MAP3K5	2683.5	1949.125	white	ellipse	gene	0.62	black	46	17	4217
+N-hsaCovid19ER_Stress-70_func	Cell survival	3576.5	1926.125	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-71	Apoptosis	3530	2069.125	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-72	EIF2AK2	3240	375	white	ellipse	gene	0.62	black	46	17	5610
+N-hsaCovid19ER_Stress-73_func	presence of dsRNA	3180	327.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-74	DNAJC3	3090	320	white	ellipse	gene	0.62	black	46	17	5611
+N-hsaCovid19ER_Stress-75	MAPK8	2955	2084.125	white	ellipse	gene	0.62	black	46	17	5599
+N-hsaCovid19ER_Stress-76	MAP3K4	2725	2184.125	white	ellipse	gene	0.62	black	46	17	4216
+N-hsaCovid19ER_Stress-77	BID	3150	1950	white	ellipse	gene	0.62	black	46	17	637
+N-hsaCovid19ER_Stress-78	MBTPS2	4471.75	2033.125	white	ellipse	gene	0.62	black	46	17	51360
+N-hsaCovid19ER_Stress-79	CDK5	2653	2109.125	white	ellipse	gene	0.62	black	46	17	1020
+N-hsaCovid19ER_Stress-80	CASP3	2477	751	white	ellipse	gene	0.62	black	46	17	836
+N-hsaCovid19ER_Stress-81	RYR1	3365.09375	941.125	white	ellipse	gene	0.62	black	46	17	6261
+N-hsaCovid19ER_Stress-82	MBTPS1	4469.25	1933.125	white	ellipse	gene	0.62	black	46	17	8720
+N-hsaCovid19ER_Stress-83	TRIB3	3595	2160	white	ellipse	gene	0.62	black	46	17	57761
+N-hsaCovid19ER_Stress-84_func	viral entry into host cell	137	339	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-85	SARS-CoV infection	145	61	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-86_func	autophagy	820	1322.1875	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-87_func	unfolded protein response (UPR)	816.5	1076.75	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-88_func	endoplasmic reticulum calcium ion homeostasis	1100	1188.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-89_func	Ca2+ mitochondrial concentration	885.46875	2006.21875	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-90_func	Ca2+ cytosolic concentration	734.75	1596.375	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-91_func	mitochondrial outer membrane depolarization	1078.96875	1904.03125	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-92_func	endoplasmic reticulum organization	207	968.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-93_func	high Ca2+ cytosolic concentration	3327.5	769.875	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-94	UPR	3840	2174.125	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-95	EIF2S1	3210	490	white	ellipse	gene	0.62	black	46	17	1965
+N-hsaCovid19ER_Stress-96_func	mitochondrial calcium ion transmembrane transport	1395.96875	2075.28125	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-97_func	pulmonary fibrosis	893	134	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-98_func	viral RNA genome replication	1001	264	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-99_func	protein ubiquitination and destruction	4106	878.5	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-100	JUN	3090	2174.125	white	ellipse	gene	0.62	black	46	17	3725
+N-hsaCovid19ER_Stress-101	BCL2	1312	567.5	white	ellipse	gene	0.62	black	46	17	596
+N-hsaCovid19ER_Stress-102_func	mitochondria fragmentation	1241.03125	1794.90625	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19ER_Stress-103	HYOU1	2082	567.5	white	ellipse	gene	0.62	black	46	17	10525
+N-hsaCovid19ER_Stress-104_func	hyperoxidation	1917	1033.5	white	rectangle	node	0.62	black	46	17	NA

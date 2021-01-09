@@ -1,0 +1,18 @@
+ID	label	X	Y	color	shape	type	label.cex	label.color	width	height	genesList
+N-hsaCovid19JNK_pathway-1	MAPK8;MAPK9;MAPK10	716	652	white	ellipse	gene	0.62	black	46	17	5599;5601;5602
+N-hsaCovid19JNK_pathway-2	MAP2K4	537	598	white	ellipse	gene	0.62	black	46	17	6416
+N-hsaCovid19JNK_pathway-3	MAP2K7	522	402	white	ellipse	gene	0.62	black	46	17	5609
+N-hsaCovid19JNK_pathway-4	7a	544	130	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19JNK_pathway-5	3a	444	130	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19JNK_pathway-6	S	650	130	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19JNK_pathway-7	MAP3K9;MAP3K10;MAP3K11	262	245	white	ellipse	gene	0.62	black	46	17	4293;4294;4296
+N-hsaCovid19JNK_pathway-8	JUN;JUND	1175	414	white	ellipse	gene	0.62	black	46	17	3725;3727
+N-hsaCovid19JNK_pathway-9	3b	1083	130	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19JNK_pathway-10	MAP3K1;MAP3K4	256	475	white	ellipse	gene	0.62	black	46	17	4214;4216
+N-hsaCovid19JNK_pathway-11	BCL2	1146	731	white	ellipse	gene	0.62	black	46	17	596
+N-hsaCovid19JNK_pathway-12	TP53	1045	950	white	ellipse	gene	0.62	black	46	17	7157
+N-hsaCovid19JNK_pathway-13	ATF2	1050	888	white	ellipse	gene	0.62	black	46	17	1386
+N-hsaCovid19JNK_pathway-14	Innate Immunity	1393	458	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19JNK_pathway-15	Apoptosis	1412.5	763	white	circle	other	0.62	black	46	17	NA
+N-hsaCovid19JNK_pathway-16_func	Autophagy	1412.5	717	white	rectangle	node	0.62	black	46	17	NA
+N-hsaCovid19JNK_pathway-17	TP53 signalling	1365	951.5	white	circle	other	0.62	black	46	17	NA
